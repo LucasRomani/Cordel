@@ -1,3 +1,8 @@
+Visite https://lucasromani.github.io/Cordel/  para ver como ficou a minha replica do site criado
+pelo professor Gustavo Guanabara.
+
+
+
 # Cordel
  Projeto Cardel com Paralax
 
